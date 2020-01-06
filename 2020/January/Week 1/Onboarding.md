@@ -25,7 +25,9 @@ As alluded to prior, I'm in some ways coalescing into AppSec. That's wierd to be
 * All those hackerzzz 90's looking sites on Tor and clearnet with lots of tools. Jacob can maybe be helpful.
 * Look into online CTF's :). 
 
-Naturally I'll be narrowing these down as I focus and find what has the greatest payoff. What really matters to me is to not become too much of a gamer. I don't want to be a CTF wargame master who can't actually touch anything running in production.
+Naturally I'll be narrowing these down as I focus and find what has the greatest payoff. What really matters to me is to not become too much of a gamer. I don't want to be a CTF wargame master who can't actually touch anything running in production. That said, I very well could make a todo list of CTF's and wargames to hack and blog each one. Every three wargames I do a real hack as well. Idk. Something like that. The problem is I know nothing: I need to spend lots of times on games and playing with vulns and learning base skills. Setting up my lab and making friends (potentially hardest part). Paying for that MentorCruise guy could be of real value here.
+
+In the meantime I *really* need to go learn Redux. The great thing is that my webdev time is not fully wasted towards my appsec dream. Afterall, I'll be mostly reviewing web dev code as an appsec prof. 
 
 # ~~Google~~ Ksquare Hire
 
