@@ -32,3 +32,25 @@ In the meantime I *really* need to go learn Redux. The great thing is that my we
 # ~~Google~~ Ksquare Hire
 
 I'm on my first project!! It's internal, as should be expected (and frankly I'm grateful for), and it'll be all trainees. So I shouldn't embarrass myself too much. The database sounds like the only real architectural challenge. On backend, there are some authentication and access roles questions that remain unanswered, but everything else oughtta be dead simple. What I do expect to struggle with is the unnecessarily deep frontend stack. Time to learn Redux! And like nine other things I'd never heard of!
+
+# Day's End
+
+I'm home now with my fancy Ubuntu work laptop. Thoughts run through my head. I need to buy an electric buzzer for my beard, soap, foodstuffs of great variety, cook ramen (like now, I'm starving), learn l33t h4cks, but also learn the massive world of web dev to a professional degree, meet up with what's-his-name and Franco tomorrow, do great on my project, get a motorcycle, write a blog post on how Torsocks works. Oh my. I've been trying to find a good todo list system for so long. Tonight, I'm going to end this post with the todolist that's been running through my head in spurts, randomly, all bits-and-pieces today:
+
+* Buy a motorcycle
+* Learn hiring app tech stack
+* Beat [http://natas0.natas.labs.overthewire.org/](natas)
+* New apt near new office
+* GH and Gmail account recovery
+* Security StackExchange
+* CSRF wtf? Code example may help.
+* Make ramen
+* Pay rent (I need landlord's #)
+* Buy electric shaver
+* Learn saxophone (haha)
+* Gym membership (SmartFit vs something else?)
+* BJJ
+* Talk to Scottish Hacker Sam
+* Post enramenadas & Linux area to Reddit (mention that CDMX metro system all runs Fedora as well as metrobus)
+
+I don't write this in anxiety over the mountain of crap I need to do. Most of it is quick, one time things I can plough through the second I have the cash. Or the moment arrives. The app thing will happen either way, it's my job (for example). The apt and moto are just a matter of saving. Pay rent will happen on rent day when I call the landlord. Landlords like money, afterall. 
