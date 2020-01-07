@@ -53,4 +53,4 @@ I'm home now with my fancy Ubuntu work laptop. Thoughts run through my head. I n
 * Talk to Scottish Hacker Sam
 * Post enramenadas & Linux area to Reddit (mention that CDMX metro system all runs Fedora as well as metrobus)
 
-I don't write this in anxiety over the mountain of crap I need to do. Most of it is quick, one time things I can plough through the second I have the cash. Or the moment arrives. The app thing will happen either way, it's my job (for example). The apt and moto are just a matter of saving. Pay rent will happen on rent day when I call the landlord. Landlords like money, afterall. 
+I don't write this in anxiety over the mountain of crap I need to do. Most of it is quick, one time things I can plough through the second I have the cash. Or the moment arrives. The app thing will happen either way, it's my job (for example). The apt and moto are just a matter of saving. Pay rent will happen on rent day when I call the landlord. Landlords like money, afterall. I'm just eager to do all of this. I want to start acting on the few things I really, really want so I can do them well. No endless planning per that RedPill warning I read. Action time.
